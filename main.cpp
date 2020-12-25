@@ -1,4 +1,4 @@
-/* DAC53401
+/* INA229
 Andreas Jonsson
 
 */
